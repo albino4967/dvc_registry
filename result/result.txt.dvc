@@ -1,0 +1,4 @@
+outs:
+- md5: e509e6a2f9684e76413906f1ce57a3b9
+  size: 52
+  path: result.txt

@@ -1,0 +1,4 @@
+[core]
+    remote = model_result
+['remote "model_result"']
+    url = /Users/mzc01-htchoi/PycharmProjects/dvc_test/result
